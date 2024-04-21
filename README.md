@@ -1,26 +1,11 @@
-```
- ________  ________      ___    ___      ___       _______   ________   ________   ________  ________      
-|\   __  \|\   __  \    |\  \  /  /|    |\  \     |\  ___ \ |\   ___  \|\   ___  \|\   __  \|\   ___  \    
-\ \  \|\  \ \  \|\  \   \ \  \/  / /    \ \  \    \ \   __/|\ \  \\ \  \ \  \\ \  \ \  \|\  \ \  \\ \  \   
- \ \   _  _\ \   __  \   \ \    / /      \ \  \    \ \  \_|/_\ \  \\ \  \ \  \\ \  \ \  \\\  \ \  \\ \  \  
-  \ \  \\  \\ \  \ \  \   \/  /  /        \ \  \____\ \  \_|\ \ \  \\ \  \ \  \\ \  \ \  \\\  \ \  \\ \  \ 
-   \ \__\\ _\\ \__\ \__\__/  / /           \ \_______\ \_______\ \__\\ \__\ \__\\ \__\ \_______\ \__\\ \__\
-    \|__|\|__|\|__|\|__|\___/ /             \|_______|\|_______|\|__| \|__|\|__| \|__|\|_______|\|__| \|__|
-                       \|___|/                                                                             
-```                                                                                                           
-                                                                                                            
-                                                                                                                              
-<!--
-**raylennon/raylennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! I'm Ray:                                                                                                                     
+- 🔧 **Maker, developer, researcher, wanderer**
+- 🔷 **Undergraduate student @ Duke University**
+- 🦫 **Incoming PhD Student @ MIT, Course 2**
 
-Here are some ideas to get you started:
+Welcome to my profile! Github is where I like to host my projects involving _code_ - personal, academic, research, or anything in between. This place is usually in flux. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feeling lost? 
+- 📌 My blog/personal site: [ray.red](https://www.ray.red)
+- 📚 My repositories: [repositories](https://github.com/raylennon?tab=repositories)
+- 🤖 My robot dog: [raysdog.com](https://www.raysdog.com) (currently dormant 💤)
